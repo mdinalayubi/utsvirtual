@@ -327,4 +327,4 @@ private void tabel_biodataMouseClicked(java.awt.event.MouseEvent evt) {
 
 # Laporan
 
-[<img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cnbcindonesia.com%2Ftech%2F20220901145037-37-368509%2F5-cara-menggabungkan-file-pdf-di-android-lebih-mudah&psig=AOvVaw0FHsyHv65yWmOUZgkDijnK&ust=1730893102539000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNj9qLeNxYkDFQAAAAAdAAAAABAR width="120px">](https://drive.google.com/drive/folders/1H4FPUBTWG_xeFuBtJv2VMXSOjamq0CDc?usp=drive_link)
+[<img src=https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Symbol.png width="120px">](https://drive.google.com/drive/folders/1H4FPUBTWG_xeFuBtJv2VMXSOjamq0CDc?usp=drive_link)
