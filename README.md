@@ -2,7 +2,7 @@
 | ----- | ----------------------- |
 | NIM   | 312210293               |
 | Kelas | TI.22.A.3               |
-| Tugas | UTS Pemrograman Virtual |
+| Tugas | UTS Pemrograman Visual |
 
 ### Pada praktikum ini, kita akan membuat Project baru dengan nama LatihanCRUD, dengan memakai Database pv_biodata dan jFrame seperti jFrame Biodata dengan beberapa perubahan desain :
 
